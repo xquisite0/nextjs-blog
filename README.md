@@ -1,1 +1,1 @@
-# nextjs-blog
+Simple blog application built with React and Next.js.
